@@ -1,0 +1,191 @@
+credentials:
+  system:
+    domainCredentials:
+    - credentials:
+      - string:
+          description: "Webhook secret for https://github.com/apps/cloudbees-ci-shbalicloudbees"
+          id: "79826f8d-2bba-43d4-8b4f-56f6f5d4de37"
+          scope: SYSTEM
+          secret: "{AQAAABAAAAAwGhfpod2jTL7H9ow/N1iUxRZDkPCHk3RUi3iWi89Qo9wHgN857dIJSmQxSsjgQGQZjMy6ZTi28eYQW+N7W7dicw==}"
+      - gitHubApp:
+          appID: "115674"
+          id: "jenkins-github-shbali"
+          privateKey: "{AQAAABAAAAawjFrcpvOAWn2pNmj6grTl4Syk1SNFTC1B8e0GPd8vnEwwau/+ZUFhu4JLMSAHyND4sw1q1KtlwvqhWTg12Pkfr6mWVtiPLxp6yBV17StNak2MTHrBsSdt4199vGUAxMq8FCvdTW9mTLa6EdqetY9BKLF34YnwLNKk8rxfa8ekQOTtH7ndxLciORxf4BveVTN/sNDbEZ3nK39mJ+VShpsZylHufdeZBk0hd08LaJgYa7/anQ+/7p9aIbuURIenj6wtF9e21O6SBLfUf5KDgTyFtcbHTIg0R4owIpBr9B7iKi9NljBoLGQ68JySQXh+mtdcVHexNDkyXM1XJSKMYdq62xN7XVOeO1vhsyoARphG997U3KAd8O5bX9xcHIedsVJd3dGedLlaInUm7twGTYrMctMY5k5ahrbnT2Wf4//3UBd+XrQNBfwB8ptT6qA+SapxF+y3QptD+fg1/OmIRpSHhWMUcZzrQgluOYt3LextlBTLXItSqpivf5CEsNhH7sC6Nw2DzSkO+VxE9MfXRsz5Q8e5FEfXP6XTZLLHERZgd/iR9xTORGKAigUbEHj15rwBFm9qHzKVvVLKQWDnQjI5gVZl9J1YAGstPp4umYdzDShCZVlfeCXTzPJPdlTYcIvVPPH5kBKzcC5JV+xNTIxuYiCdji5W5Z7OT5Ns5Xar3sKnhL/E6YbXnV+augIRp5o2FTG40tu1pbXJKyfMlATpyQSHiU5VPUJwj1g8MriEFR1+j2U30g75j+clZ73b/b/TagosIbchBWV8gZJlko4pmOkvL7rWMEX/1oKu5az2GXr7VHUG7467p5r5kv+SBUnizfZuD3Kg6/fDGFxmdUl95E+xG3Iw182kdfn3mbR7ZtzUPNzkdfXF3wUxACVzeDL8aXnd0Phl2O49ML29j0g84m5WPYSlE4wJf0VybORyLl1Tw+G8+A+Nfz1pvPH69iR1IGm6MYMS4BxFYrgxAN1adJWCdnqkNdycnNQYjFsST9EE66xmHwgc1DAPFdywD+DocroxYp1x3WVzPUMpE8+6LWqC1K9MOA3f7yWpNxiC7USQewTYmD/Ho/YzllDfP2D4SEzdKz87Dku3+ZFyxe3TMd2oSJhSTfzID7k0oOW6cEFoFV5pTtN+FsgsVNsHr5hajTuEUMeImGHclD+gLuzD8NUYqYRMFVkQvjwQvqmmBmS5WKH9nX+toyhjhkiXoc3t7XseZf8+xKuRbwIDHB4pjxXYfiO6tCR/C+TZQudy2vXWdLPi5FpIjx8n/WgTMGZpMqkPoKNmMFW1Y5B/LhjQ/gA68mIjqvn9SSzdOlHiIDYN1jHZvcQkWBbRhISB6qEnscd4kCzw0tE4vcoqyZZIQ5peHVSUAxTf2FntxT1Yc47fma/iS43G51P9ONFFCrYWzaFQdmUlsyCvMkRD616wbwDc5NgUoQoAw8bfUPnt+vqxkMKcr9vGzJyBHSjpbtnDx8hRtoyUTNdfxS6kVc5VOBS7CYPf9WOHClrcCywny/6gFyMbiZGPUwIO+fzDLqgkBG3N+PtxOrqIkhymr4XwIjaITxwRDxth6t9O5jOTR9sBbpLk77IZiD5XzpCcBikv0GUVz8w87/E6uQ41jD7GfDQUwYhQd+gZ4oCJDPHz6al0soJ85V9nJfHt+qsTmhKLtFutj97oTmBWBUz2JHdVBL8rfu0KeFQkMs6jdE4UoCHp48NqsNPT6+39fyxt/ymy488b9NDTo9xfp/sA6DaafCinXYUUFNzcnwEd/ucWjxZGjskMgsdnNSLkGcS2ULC1hPpVdYgIqP5GAtXgepVDqz9CljNnVn+FJf/6Uu8hI+akyV7HebXNDXl3bCkcx95JQL+4mtAtdvtED0DD/GUiiVhWrk3+tvyuSaYyggfZJOQIthKDORnVtrRx0bEB/60GzjX5AN5q2oNP2QfduOOLT8SuAKX47d7NcFFtgspqw6058xD7rAhNGL6snnSkW7nk2T0H4N2+6vkNZLGgx9T88YG76PMN7CjqN0EPhA2DzJrwOP1Wmbp4mf653MMyb7zLATv4FavVv+1BU527YKQFP0d8SKOBh4qVRNfAW2GUCEGZMmEGJ5QCs5tg51+GdCVddCf0TYT0bLw9kZXpRaaAX/8EgfMJf4jWAxX/SpGukGnlew4tlox9hyR376xhtd9afjLlKBgIIRrsdU6fTKM0MT75AGxJp3+UmSWm3qFI5HRzzOntk64Rp0bfPbyAhpUPpCvgPxxG8vyzHqt/RH7nDPa+bwZ98Mv75RSABjlwf1SZvDWonZPKXA5+eBUGGFi4}"
+jenkins:
+  agentProtocols:
+  - "Diagnostic-Ping"
+  - "JNLP4-connect"
+  - "OperationsCenter2"
+  - "Ping"
+  authorizationStrategy:
+    loggedInUsersCanDoAnything:
+      allowAnonymousRead: false
+  crumbIssuer:
+    standard:
+      excludeClientIPFromCrumb: false
+  disableRememberMe: false
+  labelAtoms:
+  - name: "asdfasdfasdf"
+  - name: "master"
+  labelString: "asdfasdfasdf"
+  markupFormatter: "plainText"
+  mode: EXCLUSIVE
+  myViewsTabBar: "standard"
+  numExecutors: 0
+  primaryView:
+    all:
+      name: "all"
+  projectNamingStrategy: "standard"
+  quietPeriod: 5
+  remotingSecurity:
+    enabled: true
+  scmCheckoutRetryCount: 0
+  securityRealm: "operationsCenter"
+  slaveAgentPort: 50000
+  updateCenter:
+    sites:
+    - id: "core-mm-offline"
+      url: "file:/tmp/jenkins/war/WEB-INF/plugins/update-center.json"
+    - id: "cap-core-mm"
+      url: "https://jenkins-updates.cloudbees.com/update-center/envelope-core-mm/update-center.json"
+  views:
+  - all:
+      name: "all"
+  viewsTabBar: "standard"
+advisor:
+  acceptToS: true
+  email: "shbali@cloudbees.com"
+  excludedComponents:
+  - "AgentsSystemConfiguration"
+  - "AgentsJVMProcessSystemMetricsContents"
+  - "GCLogs"
+  - "AgentsConfigFile"
+  - "ConfigFileComponent"
+  - "RootCAs"
+  - "SlaveLogs"
+  - "OtherConfigFilesComponent"
+  - "HeapUsageHistogram"
+  - "OtherLogs"
+  nagDisabled: true
+beekeeper:
+  enabled: true
+  securityWarnings:
+    enabledForCore: true
+    enabledForPlugins: true
+  upgrades:
+    autoDowngradePlugins: false
+    autoUpgradePlugins: false
+notificationConfiguration:
+  enabled: true
+  router: "operationsCenter"
+security:
+  anonymizeSupportBundle:
+    enabled: false
+  apiToken:
+    creationOfLegacyTokenEnabled: false
+    tokenGenerationOnCreationEnabled: false
+    usageStatisticsEnabled: true
+  globalJobDslSecurityConfiguration:
+    useScriptSecurity: true
+  sSHD:
+    port: -1
+unclassified:
+  artifactManager:
+    artifactManagerFactories:
+    - "jSync"
+  buildDiscarders:
+    configuredBuildDiscarders:
+    - "jobBuildDiscarder"
+  cloudBeesSCMReporting:
+    enabled: true
+  email-ext:
+    adminRequiredForTemplateTesting: false
+    allowUnregisteredEnabled: false
+    charset: "UTF-8"
+    debugMode: false
+    defaultBody: |-
+      $PROJECT_NAME - Build # $BUILD_NUMBER - $BUILD_STATUS:
+
+      Check console output at $BUILD_URL to view the results.
+    defaultContentType: "text/plain"
+    defaultSubject: "$PROJECT_NAME - Build # $BUILD_NUMBER - $BUILD_STATUS!"
+    defaultTriggerIds:
+    - "hudson.plugins.emailext.plugins.trigger.FailureTrigger"
+    mailAccount:
+      smtpHost: "smpt.example.com"
+      smtpPassword: "{AQAAABAAAAAQPYpmyLOJkKn4IDsep83NV0MUwtVdwPnArqdg4dFa8bQ=}"
+    maxAttachmentSize: -1
+    maxAttachmentSizeMb: -1
+    precedenceBulk: false
+    watchingEnabled: false
+  experimentalPlugins:
+    enabled: false
+  fingerprints:
+    fingerprintCleanupDisabled: false
+    storage: "file"
+  gitHubConfiguration:
+    apiRateLimitChecker: ThrottleForNormalize
+  gitHubPluginConfig:
+    hookSecretConfigs:
+    - credentialsId: "79826f8d-2bba-43d4-8b4f-56f6f5d4de37"
+    hookUrl: "http://ci.shbali.pscbdemos.com/mm2/github-webhook/"
+  gitSCM:
+    addGitTagAction: false
+    allowSecondFetch: false
+    createAccountBasedOnEmail: false
+    disableGitToolChooser: false
+    hideCredentials: false
+    showEntireCommitSummaryInChanges: false
+    useExistingAccountWithSameEmail: false
+  globalDefaultFlowDurabilityLevel:
+    durabilityHint: PERFORMANCE_OPTIMIZED
+  globalLibraries:
+    libraries:
+    - defaultVersion: "main"
+      name: "shared-libraries"
+      retriever:
+        modernSCM:
+          scm:
+            github:
+              configuredByUrl: true
+              credentialsId: "jenkins-github-shbali"
+              id: "f5bf1676-696b-4c04-9a4e-f40e70f09840"
+              repoOwner: "darinpope"
+              repository: "github-api-global-lib"
+              repositoryUrl: "https://github.com/darinpope/github-api-global-lib.git"
+              traits:
+              - gitHubBranchDiscovery:
+                  strategyId: 1
+              - gitHubPullRequestDiscovery:
+                  strategyId: 1
+              - gitHubForkDiscovery:
+                  strategyId: 1
+                  trust: "gitHubTrustPermissions"
+  junitTestResultStorage:
+    storage: "file"
+  location:
+    adminAddress: "Sara HBALI <shbali@cl>"
+    url: "http://ci.shbali.pscbdemos.com/mm2/"
+  mailer:
+    charset: "UTF-8"
+    smtpHost: "smtp.example.com"
+    useSsl: false
+    useTls: false
+  operationsCenterRootAction:
+    connectionDetails: "----- BEGIN CONNECTION DETAILS -----\nH4sIAAAAAAAAAB2NUQ7CIBBE77LfAsGyYHoNTwDbRatUDFD9MN7djX/zMm8yH7i0+BgwA4bocwqs\r\
+      \naEGrXDh6lYJFldBNOTuPzp7gAOsirlXbZgX2VoSuYzxnY+hWSVOiVfeXhLL3wU2XSrH8OyODN6dz\r\
+      \npTvLYY6l8/cH03kMZIAAAAA=\r\n----- END CONNECTION DETAILS -----\n"
+  pollSCM:
+    pollingThreadCount: 10
+  usageStatisticsCloudBees:
+    usageStatisticsCollected: true
+tool:
+  cloudbeesPluginUsageAnalyzer:
+    enabled: true
+  git:
+    installations:
+    - home: "git"
+      name: "Default"
+  mavenGlobalConfig:
+    globalSettingsProvider: "standard"
+    settingsProvider: "standard"
