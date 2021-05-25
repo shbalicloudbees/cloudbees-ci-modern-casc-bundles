@@ -1,7 +1,7 @@
 apiVersion: "1"
 id: "0-mm2"
 description: "This is the mm2 bundle"
-version: "2"
+version: "3"
 plugins:
   - "plugins.yaml"
 jcasc:
