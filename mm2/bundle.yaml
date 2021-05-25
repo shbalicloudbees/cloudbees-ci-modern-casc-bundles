@@ -1,6 +1,6 @@
 apiVersion: "1"
-id: "0-cc2"
-description: "This is the cc2 bundle"
+id: "0-mm2"
+description: "This is the mm2 bundle"
 version: "2"
 plugins:
   - "plugins.yaml"
