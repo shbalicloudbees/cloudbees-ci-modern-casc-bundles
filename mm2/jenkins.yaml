@@ -142,7 +142,7 @@ unclassified:
   globalLibraries:
     libraries:
     - defaultVersion: "main"
-      name: "shared-libraries"
+      name: "shared-library"
       retriever:
         modernSCM:
           scm:
@@ -172,9 +172,6 @@ unclassified:
     useSsl: false
     useTls: false
   operationsCenterRootAction:
-    connectionDetails: "----- BEGIN CONNECTION DETAILS -----\nH4sIAAAAAAAAAB2NUQ7CIBBE77LfAsGyYHoNTwDbRatUDFD9MN7djX/zMm8yH7i0+BgwA4bocwqs\r\
-      \naEGrXDh6lYJFldBNOTuPzp7gAOsirlXbZgX2VoSuYzxnY+hWSVOiVfeXhLL3wU2XSrH8OyODN6dz\r\
-      \npTvLYY6l8/cH03kMZIAAAAA=\r\n----- END CONNECTION DETAILS -----\n"
   pollSCM:
     pollingThreadCount: 10
   usageStatisticsCloudBees:
